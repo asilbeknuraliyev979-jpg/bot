@@ -1,7 +1,7 @@
-aiogram==3.20.0
+aiogram>=3.0.0
 python-dotenv
 openpyxl
 pandas
-reportlab
 Pillow
-qrcode
+qrcode[pil]
+reportlab
